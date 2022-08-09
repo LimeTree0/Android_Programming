@@ -16,3 +16,4 @@ rootProject.name = "My Application"
 include ':app'
 include ':ch11_jetpack'
 include ':ch12_material'
+include ':ch13_activity'
