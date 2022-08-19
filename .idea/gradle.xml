@@ -17,7 +17,6 @@
             <option value="$PROJECT_DIR$/ch14_receiver" />
             <option value="$PROJECT_DIR$/ch15_outer" />
             <option value="$PROJECT_DIR$/ch15_service" />
-            <option value="$PROJECT_DIR$/ch16_provider" />
           </set>
         </option>
       </GradleProjectSettings>
