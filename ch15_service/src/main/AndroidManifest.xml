@@ -14,13 +14,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <service
-            android:name="com.example.ch15_outer.MyJobService"
+            android:name="com.example.ch15_service.MyJobService"
             android:enabled="true"
             android:exported="true"
             android:permission="android.permission.BIND_JOB_SERVICE"></service>
 
         <activity
-            android:name="com.example.ch15_outer.MainActivity"
+            android:name="com.example.ch15_service.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
